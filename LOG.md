@@ -1,3 +1,5 @@
+## 1.0.3
+- improved minting mechanism: *will mint as soon as the page loaded half way*
 ## 1.0.2
 - added `banner.png`
 - **user-interface** updated
