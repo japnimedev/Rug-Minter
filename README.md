@@ -4,7 +4,7 @@
 {description.idunnoyet}
 
 ## Visual
-![rugminter](https://i.imgur.com/7wiIabJ.png)
+![rugminter](https://i.imgur.com/0WzPxw7.png)
 
 ## Information
 - You can check the update logs [here](https://github.com/japnimedev/Rug-Minter/blob/main/LOG.md).
