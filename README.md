@@ -1,7 +1,7 @@
 # Rug-Minter
 > A chrome extension to mint in bulk tabs
 
-{description.idunnoyet}
+This bot does not ensure that you will acquire your NFT; it just mints **quicker than humans** and automates everything because you do not have to click yourself.
 
 ## Visual
 ![rugminter](https://i.imgur.com/cnWzThT.png)
