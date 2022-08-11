@@ -1,7 +1,7 @@
 ## 1.0.3
 - [**1.0.2**] removed ~~validation~~ temporary, exceeding 100 tabs can kill your ram
 - added buttons: *you can pick either normal or spam process of minting*
-- improved minting mechanism: *will mint as soon as the page loaded half way*
+- improved minting mechanism (only applied in **nuke button**): *will mint as soon as the page loaded half way*
 ## 1.0.2
 - added `banner.png`
 - **user-interface** updated
