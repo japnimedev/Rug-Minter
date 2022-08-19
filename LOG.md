@@ -1,5 +1,6 @@
 ## 1.0.3
-- added **public key**, ensuring temporary security for accessing the extension.
+- user-interface updated
+- added **public key**, ensuring temporary security for accessing the extension
 - [**1.0.2**] removed ~~validation~~ temporary, exceeding 100 tabs can kill your ram
 - added buttons: *you can pick either normal or spam process of minting*
 - improved minting mechanism (only applied in **nuke button**): *will mint as soon as the page loaded half way*
