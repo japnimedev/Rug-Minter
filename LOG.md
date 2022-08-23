@@ -1,3 +1,6 @@
+## 1.0.4
+- code improvement applied
+- integrated with **Discord**: _users from [WanoDAO](https://twitter.com/WanoDAO_) can now login in order to use the bot_
 ## 1.0.3
 - user-interface updated
 - added **public key**, ensuring temporary security for accessing the extension
