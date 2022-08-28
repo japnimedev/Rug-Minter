@@ -1,10 +1,18 @@
-<p align="center">{logo.rg}</p>
+<p align="center">
+  <a href="#">
+    <img
+      alt="rg_minter_logo"
+      src="https://cdn.discordapp.com/attachments/1013595281591390249/1013595565130522624/icon.png"
+      width="150"
+    />
+  </a>
+</p>
+
 <h1 align="center">Rug-Minter</h1>
-<p align="center">{description.project}</p>
+<p align="center">A chrome extension to mint in bulk tabs.</p>
 
 ## Visual
-![rugminter](https://i.imgur.com/cnWzThT.png)
-{rg.video}
+![rugminter](https://cdn.discordapp.com/attachments/1013595281591390249/1013595657577189376/visual_105.png)
 
 ## Features
 {list.rug_minter}
