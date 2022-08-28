@@ -1,3 +1,8 @@
+## 1.0.5
+- user-interface updated: _layout, banner, and logo change_
+- added button for Mac users to bypass login: _there's an issue with auth as it closes `popup.html`_
+- tracker updated: _added blocked mints_
+- minting process improvement: _nuke button and broken mint process can be enabled or disabled_
 ## 1.0.4
 - code improvement applied
 - integrated with **Discord**: _users from [WanoDAO](https://twitter.com/WanoDAO_) can now login in order to use the bot_
