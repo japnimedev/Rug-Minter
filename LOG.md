@@ -1,4 +1,5 @@
 ## 1.0.5
+- improve mint button detection
 - user-interface updated: _layout, banner, and logo change_
 - added button for Mac users to bypass login: _there's an issue with auth as it closes `popup.html`_
 - tracker updated: _added blocked mints_
